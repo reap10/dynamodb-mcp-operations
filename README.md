@@ -1,4 +1,4 @@
-# DynamoDB MCP Operations Demo
+# DynamoDB MCP Operations
 
 A comprehensive demonstration of DynamoDB operations through Model Context Protocol (MCP) architecture with AI-powered natural language interface using AWS Bedrock.
 
